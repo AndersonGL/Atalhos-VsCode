@@ -1,12 +1,28 @@
-# Atalhos-VsCode
+📚 Atalhos Essenciais do VS Code
+Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado indispensáveis!
 
+✂️ Edição de Código
+Comentar múltiplas linhas
+Ctrl + K, depois Ctrl + C
 
-CTRL+ K, CTRL + C = PARA COMENTAR VÁRIAS LINHAS
+Descomentar múltiplas linhas
+Ctrl + K, depois Ctrl + U
 
-CTRL + K, CTRL + U = PARA DESCOMENTAR
+Duplicar linha ou seleção para cima ou para baixo
+Shift + Alt + ↑ / Shift + Alt + ↓
 
-SHIFT + ALT -> SETA PARA BAIXO OU CIMA PARA MUTIPLICAR LINHA
+Mover linha ou seleção para cima ou para baixo
+Alt + ↑ / Alt + ↓
 
-TECLA ALT + SETA PARA BAIXO OU PARA CIMA = MOVE AS LINHAS DO CÓDIGO 
+🧹 Formatação
+Auto indentação / organizar código
+Alt + Shift + S
 
-ALT + SHIFT + S = FAZ A ENDENTAÇÃO NO CÓDIGO
+💡 Dica Extra
+Você pode personalizar ou consultar todos os atalhos acessando:
+Arquivo → Preferências → Atalhos de Teclado (Ctrl + K, Ctrl + S)
+
+🔗 Recursos Úteis
+Documentação oficial de atalhos do VS Code (em inglês)
+
+Dicas e truques do VS Code (em inglês)
