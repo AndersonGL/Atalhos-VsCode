@@ -21,7 +21,7 @@ Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado ind
 - **Mover linha ou seleção para cima ou para baixo**  
   `Alt + ↑` / `Alt + ↓`
 
-  **Para criar (divs, classes e button somente colocando . e #  ) **  
+  **Para criar (divs, classes e botões somente colocando . e #  ) **  
   `div coloque # depois o nome , para criar  div class coloque ponto mais o nome da classe e o button segue mesmo padrão #button e o nome`
 
 ---
