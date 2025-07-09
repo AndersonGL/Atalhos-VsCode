@@ -48,6 +48,8 @@ Ctrl + ; – Comenta ou descomenta a linha
 
 Ctrl + Shift + P – Abre a paleta de comandos
 
+Ctrl + Shift + X - Abre as extensões do vscode
+
 ## 🧹 Formatação
 
 - **Auto indentação / organizar código**  
