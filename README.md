@@ -45,10 +45,12 @@ Alt + Shift + ↓ – Duplica a linha
 Ctrl + B – Mostrar/ocultar a barra lateral
 
 Ctrl + ; – Comenta ou descomenta a linha
-
+****
 Ctrl + Shift + P – Abre a paleta de comandos
 
 Ctrl + Shift + X - Abre as extensões do vscode
+
+ Ctrl + space = Da a sugestão de auto complete
 
 ## 🧹 Formatação
 
