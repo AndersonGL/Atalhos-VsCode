@@ -50,7 +50,7 @@ Ctrl + Shift + P – Abre a paleta de comandos
 
 Ctrl + Shift + X - Abre as extensões do vscode
 
- Ctrl + space = Da a sugestão de auto complete
+ Ctrl + Space = Da a sugestão de auto complete
 
 ## 🧹 Formatação
 
