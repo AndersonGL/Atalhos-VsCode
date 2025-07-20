@@ -38,11 +38,17 @@ Ctrl + F – Busca no arquivo atual
 
 Ctrl + Shift + F – Busca global
 
-Ctrl + P – Acessa qualquer arquivo
+Ctrl + P – Acessa qualquer arquivo rapidamente
+
+Ctrl + / - comenta e descomenta linhas
+
+F2 - renomeia variâveis com segurança
 
 Alt + Shift + ↓ – Duplica a linha
 
 Ctrl + B – Mostrar/ocultar a barra lateral
+
+Ctrl + D - Seleciona a p´roxima ocorrência da palavra
 
 Ctrl + ; – Comenta ou descomenta a linha
 ****
