@@ -48,7 +48,7 @@ Alt + Shift + ↓ – Duplica a linha
 
 Ctrl + B – Mostrar/ocultar a barra lateral
 
-Ctrl + D - Seleciona a p´roxima ocorrência da palavra
+Ctrl + D - Seleciona a próxima ocorrência da palavra
 
 Ctrl + ; – Comenta ou descomenta a linha
 ****
