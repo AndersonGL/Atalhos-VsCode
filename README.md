@@ -40,9 +40,9 @@ Ctrl + Shift + F – Busca global
 
 Ctrl + P – Acessa qualquer arquivo rapidamente
 
-Ctrl + / - comenta e descomenta linhas
+Ctrl + / - Comenta e descomenta linhas
 
-F2 - renomeia variâveis com segurança
+F2 - Renomeia variâveis com segurança
 
 Alt + Shift + ↓ – Duplica a linha
 
